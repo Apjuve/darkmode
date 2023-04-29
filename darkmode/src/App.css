@@ -7,3 +7,11 @@
   align-items: center;
   flex-direction: column;
 }
+
+#light {
+background-color: lightskyblue;
+}
+
+#dark {
+  background-color: rgb(72, 2, 72);
+}
