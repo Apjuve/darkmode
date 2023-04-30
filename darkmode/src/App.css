@@ -91,3 +91,23 @@ padding-top: 40px;
   font-family: "Ubuntu", sans-serif;
 }
 
+#light .username,
+#light .password {
+  color: rgb(0, 0, 0);
+  background: rgba(168, 172, 192, 0.945);
+}
+
+#dark .username,
+#dark .password {
+  color: rgb(50, 77, 187);
+  background: rgba(223, 8, 8, 0.299);
+}
+
+.username:focus,
+.password:focus {
+  border: 2px solid rgba(79, 78, 78, 0.913) !important;
+}
+
+
+
+
