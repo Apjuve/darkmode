@@ -124,6 +124,24 @@ padding-top: 40px;
   box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
 }
 
+.forgot {
+  text-shadow: 0px 0px 3px rgba(73, 67, 67, 0.821);
+  color: #19d716;
+  padding-top: 15px;
+}
+
+a {
+  text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+  color: #e1bee7;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .main {
+    border-radius: 0px;
+  }
+}
+
 
 
 
