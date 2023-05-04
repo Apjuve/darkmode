@@ -2,6 +2,10 @@ import './App.css';
 import Form from './components/Form'
 import { createContext, useState } from 'react';
 import ReactSwitch from 'react-switch';
+import About from './components/Sections/About';
+import Footer from './components/Sections/Footer';
+import Header from './components/Sections/Header';
+
 
 export const ThemeContext = createContext(null);  
 

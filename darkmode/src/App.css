@@ -142,6 +142,17 @@ a {
   }
 }
 
+.switch label {
+  margin: 5px;
+}
+
+#light .switch label {
+  color: black;
+}
+
+#dark .switch label {
+  color: white;
+}
 
 
 
